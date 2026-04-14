@@ -1,0 +1,38 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Mac
+.DS_Store
+
+# Android
+android/app/build/
+android/build/
+android/.gradle/
+*.keystore
+*.jks
+
+# iOS
+ios/build/
+ios/Pods/
+*.xcworkspace
+
+# Metro bundler
+.metro-cache
+
+# Environment files
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
